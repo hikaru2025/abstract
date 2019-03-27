@@ -6,5 +6,9 @@ package com.example.demo.service;
  */
 public interface UserService {
 
+    /**
+     * 这是一个测试方法
+     * @return
+     */
     String hello();
 }
