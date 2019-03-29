@@ -12,7 +12,7 @@ public class Controller {
     @Autowired
     private static TTT tt;
 
-
+//ASDHKHDA
     public static void wa() {
         System.out.println(tt.hhe());
     }
